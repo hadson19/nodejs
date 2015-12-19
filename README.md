@@ -1,5 +1,11 @@
 # nodejs
-## Check code
+## Testing code by
+
+ApacheBench  http://httpd.apache.org/docs/2.2/programs/ab.html
+Siege  https://www.joedog.org/siege-home/
+Jmeter  http://jmeter.apache.org/
+Tsung  http://tsung.erlang-projects.org/
+
 
 ## Deamon and Watching
 
@@ -16,7 +22,3 @@ There are two ways to use forever: through the command line or by using forever 
 **NODEMON**  will watch the files in the directory in which nodemon was started, and if any files change, nodemon will automatically restart your node application. nodemon does not require any changes to your code or method of development. nodemon simply wraps your node application and keeps an eye on any files that have changed. Remember that nodemon is a replacement wrapper for node, think of it as replacing the word "node" on the command line when you run your script.
 
 ![screen](https://cloud.githubusercontent.com/assets/4102119/11914058/7f9a5d5e-a67e-11e5-869c-32c2b329529a.jpg)
-
-
-
-## check code

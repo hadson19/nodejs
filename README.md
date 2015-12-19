@@ -15,10 +15,14 @@ Express.js is one of the most essential web frameworks for Node.js. It is a mini
 Mojito is a JavaScript framework based on Yahoo! Cocktails, a mobile application development platform introduced by Yahoo! Developer Network. JavaScript is the only programming language which is used for Yahoo! Cocktails Platform. Since, client and server components are both written in JavaScript, Mojito can run on both the client side (browser) and the server (Node.js).
 Mojito is a model-view controller (MVC) framework offering a gamut of features, such as
 
-Convenient data fetching.
-Local development environment and tools (Yahoo! independent stack).
-Integrated unit testing.
-Library for simplifying internationalization & localization.
+- Convenient data fetching.
+- Local development environment and tools (Yahoo! independent stack).
+- Integrated unit testing.
+- Library for simplifying internationalization & localization.
+
+
+[Meteor](https://www.meteor.com/)
+Meteor is an open-source, model-view controller (MVC) framework for building websites and web/mobile applications. The framework supports OS X, Windows and Linux. It allows writing both client and server parts of an application in JavaScript. Meteor’s in-built set of pre-written, self-contained modules makes writing application codes. Moreover, its reactive programming model allows creating applications using lesser JavaScript code. Besides, Meteor is a powerful framework for building real-time applications. Popular applications built using Meteor are Respondly (a team collaboration app), Blonk (Job search mobile App) and more.
 
 
 ## Unit Test and Code check 

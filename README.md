@@ -3,13 +3,16 @@
 List frameworks
 [![aow3 qdhe3kqp1](https://cloud.githubusercontent.com/assets/4102119/11914128/d93a8310-a67f-11e5-8f87-51cb7cbcd0b6.jpg)](http://nodeframework.com/)
 
-## Testing code by
+## Unit Text and Code check 
 
 ApacheBench  http://httpd.apache.org/docs/2.2/programs/ab.html
 Siege  https://www.joedog.org/siege-home/
 Jmeter  http://jmeter.apache.org/
 Tsung  http://tsung.erlang-projects.org/
-mocha   http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018
+
+**mocha**   http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018
+
+Unit Testing and Quality Assurance (QA) are two very important aspects of writing good quality, maintainable code that does what you expect. Without these, you really don't know if your application is going to instigate world peace or start a war (metaphorically speaking). [example](http://www.clock.co.uk/blog/tools-for-unit-testing-and-quality-assurance-in-node-js)
 
 ## Deamon and Watching
 

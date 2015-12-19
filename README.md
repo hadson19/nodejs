@@ -1,7 +1,7 @@
 # nodejs
 ## Check code
 
-## Deamon
+## Deamon and Watching
 
 **PM2** is a sweet little tool that is going to solve two problems for you. Production process manager for Node.JS applications with a built-in load balancer. PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
 [How to use PM2](https://www.digitalocean.com/community/tutorials/how-to-use-pm2-to-setup-a-node-js-production-environment-on-an-ubuntu-vps)
@@ -13,7 +13,9 @@ There are two ways to use forever: through the command line or by using forever 
 
 ![screen](https://cloud.githubusercontent.com/assets/4102119/11913875/34991c44-a67b-11e5-9a9f-e2ecaf8e3484.jpg)
 
-NODEMON
+**NODEMON**  will watch the files in the directory in which nodemon was started, and if any files change, nodemon will automatically restart your node application. nodemon does not require any changes to your code or method of development. nodemon simply wraps your node application and keeps an eye on any files that have changed. Remember that nodemon is a replacement wrapper for node, think of it as replacing the word "node" on the command line when you run your script.
+
+
 
 
 ## check code

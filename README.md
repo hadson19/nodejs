@@ -33,6 +33,10 @@ Koa.js is a powerful server framework for Node.js to build efficient web applica
 [Total.js] (https://www.totaljs.com/?language=en)  [<img src="https://camo.githubusercontent.com/b94f51711c9f7a07a6fafbc5a01be6d3d7726af2/687474703a2f2f706e67696d672e636f6d2f75706c6f61642f737461725f504e47313539352e706e67" alt="star" title="start on github" width="20" />](http://ghbtns.com/github-btn.html?user=totaljs&repo=framework&type=watch&count=true)
 Total.js is one of the modern and modular Node.js frameworks supporting model-view controller (MVC) software architecture. It is fully compatible with various client-side frameworks, like Angular.js, Polymer, Backbone.js, Bootstrap and more. Total.js is fully extensible and asynchronous. One great feature of Total.js is that you don’t need any tools like Grunt to compress JavaScript, HTML and CSS. Additionally, the framework has NoSQL embedded database and supports array and other prototypes. It supports RESTful routing mechanism, supports web sockets, media streaming and more.
 
+[Strapi](http://strapi.io/) [<img src="https://camo.githubusercontent.com/d5cddbe4a1538fdce934606c51eb56c1a98a9ecd/687474703a2f2f6e65776d657261746f722e6769746875622e696f2f626c61636b746f6361742e706e67" width="20">](https://github.com/wistityhq/strapi) is an open-source Node.js rich framework for building applications and services.
+Strapi enables developers to focus on writing reusable application logic instead of spending time building infrastructure. It is designed for building practical, production-ready Node.js applications in a matter of hours instead of weeks.
+The framework sits on top of Koa. Its ensemble of small modules work together to provide simplicity, maintainability, and structural conventions to Node.js applications.
+
 ## Unit Test and Code check 
 
 ApacheBench  http://httpd.apache.org/docs/2.2/programs/ab.html

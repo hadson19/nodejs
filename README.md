@@ -42,11 +42,11 @@ for writing scalable applications.
 
 ## CODECHECK 
 
-**JSHINT** [<img src="https://camo.githubusercontent.com/b94f51711c9f7a07a6fafbc5a01be6d3d7726af2/687474703a2f2f706e67696d672e636f6d2f75706c6f61642f737461725f504e47313539352e706e67" alt="star" title="start on github" width="20" />](https://github.com/jshint/jshint)
+**JSHINT** [<img src="https://camo.githubusercontent.com/d5cddbe4a1538fdce934606c51eb56c1a98a9ecd/687474703a2f2f6e65776d657261746f722e6769746875622e696f2f626c61636b746f6361742e706e67" width="20">](https://github.com/jshint/jshint)
 
-**JSLINT** [<img src="https://camo.githubusercontent.com/b94f51711c9f7a07a6fafbc5a01be6d3d7726af2/687474703a2f2f706e67696d672e636f6d2f75706c6f61642f737461725f504e47313539352e706e67" alt="star" title="start on github" width="20" />](https://github.com/douglascrockford/JSLint)
+**JSLINT** [<img src="https://camo.githubusercontent.com/d5cddbe4a1538fdce934606c51eb56c1a98a9ecd/687474703a2f2f6e65776d657261746f722e6769746875622e696f2f626c61636b746f6361742e706e67" width="20">](https://github.com/douglascrockford/JSLint)
 
-**CLOSURE COMPILER** [<img src="https://camo.githubusercontent.com/b94f51711c9f7a07a6fafbc5a01be6d3d7726af2/687474703a2f2f706e67696d672e636f6d2f75706c6f61642f737461725f504e47313539352e706e67" alt="star" title="start on github" width="20" />](https://github.com/google/closure-compiler) is a tool for making JavaScript download and run faster. It is a true compiler for JavaScript. Instead of compiling from a source language to machine code, it compiles from JavaScript to better JavaScript. It parses your JavaScript, analyzes it, removes dead code and rewrites and minimizes what's left. It also checks syntax, variable references, and types, and warns about common JavaScript pitfalls.
+**CLOSURE COMPILER** [<img src="https://camo.githubusercontent.com/d5cddbe4a1538fdce934606c51eb56c1a98a9ecd/687474703a2f2f6e65776d657261746f722e6769746875622e696f2f626c61636b746f6361742e706e67" width="20">](https://github.com/google/closure-compiler) is a tool for making JavaScript download and run faster. It is a true compiler for JavaScript. Instead of compiling from a source language to machine code, it compiles from JavaScript to better JavaScript. It parses your JavaScript, analyzes it, removes dead code and rewrites and minimizes what's left. It also checks syntax, variable references, and types, and warns about common JavaScript pitfalls.
 Article
 
 [ru] http://habrahabr.ru/company/paysto/blog/251277/

@@ -40,6 +40,10 @@ The framework sits on top of Koa. Its ensemble of small modules work together to
 [adonisjs](http://adonisjs.com) [<img src="https://camo.githubusercontent.com/d5cddbe4a1538fdce934606c51eb56c1a98a9ecd/687474703a2f2f6e65776d657261746f722e6769746875622e696f2f626c61636b746f6361742e706e67" width="20">](https://github.com/adonisjs) Adonis is a beautiful MVC framework for Node/Iojs , crafted
 for writing scalable applications.
 
+## CODECHECK 
+**JSHINT** [link](https://github.com/jshint/jshint)
+[ru] http://habrahabr.ru/company/paysto/blog/251277/
+
 ## Unit Test and Code check 
 
 ApacheBench  http://httpd.apache.org/docs/2.2/programs/ab.html

@@ -42,6 +42,9 @@ for writing scalable applications.
 
 ## CODECHECK 
 **JSHINT** [link](https://github.com/jshint/jshint)
+
+Article
+
 [ru] http://habrahabr.ru/company/paysto/blog/251277/
 
 ## Unit Test and Code check 

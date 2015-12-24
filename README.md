@@ -41,7 +41,10 @@ The framework sits on top of Koa. Its ensemble of small modules work together to
 for writing scalable applications.
 
 ## CODECHECK 
+
 **JSHINT** [link](https://github.com/jshint/jshint)
+
+**JSLINT** [link](https://github.com/douglascrockford/JSLint)
 
 Article
 

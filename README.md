@@ -42,9 +42,9 @@ for writing scalable applications.
 
 ## CODECHECK 
 
-**JSHINT** [<img src="https://camo.githubusercontent.com/d5cddbe4a1538fdce934606c51eb56c1a98a9ecd/687474703a2f2f6e65776d657261746f722e6769746875622e696f2f626c61636b746f6361742e706e67" width="20">](https://github.com/jshint/jshint)  It parses and analyzes a source file, returning an object with information about the file. It can also take an object that sets options.
+**JSHINT** [<img src="https://camo.githubusercontent.com/d5cddbe4a1538fdce934606c51eb56c1a98a9ecd/687474703a2f2f6e65776d657261746f722e6769746875622e696f2f626c61636b746f6361742e706e67" width="20">](https://github.com/jshint/jshint)  is a community-driven tool to detect errors and potential problems in JavaScript code and to enforce your team's coding conventions. It is very flexible so you can easily adjust it to your particular coding guidelines and the environment you expect your code to execute in. JSHint is open source and will always stay this way.
 
-**JSLINT** [<img src="https://camo.githubusercontent.com/d5cddbe4a1538fdce934606c51eb56c1a98a9ecd/687474703a2f2f6e65776d657261746f722e6769746875622e696f2f626c61636b746f6361742e706e67" width="20">](https://github.com/douglascrockford/JSLint)
+**JSLINT** [<img src="https://camo.githubusercontent.com/d5cddbe4a1538fdce934606c51eb56c1a98a9ecd/687474703a2f2f6e65776d657261746f722e6769746875622e696f2f626c61636b746f6361742e706e67" width="20">](https://github.com/douglascrockford/JSLint) It parses and analyzes a source file, returning an object with information about the file. It can also take an object that sets options.
 
 **CLOSURE COMPILER** [<img src="https://camo.githubusercontent.com/d5cddbe4a1538fdce934606c51eb56c1a98a9ecd/687474703a2f2f6e65776d657261746f722e6769746875622e696f2f626c61636b746f6361742e706e67" width="20">](https://github.com/google/closure-compiler) is a tool for making JavaScript download and run faster. It is a true compiler for JavaScript. Instead of compiling from a source language to machine code, it compiles from JavaScript to better JavaScript. It parses your JavaScript, analyzes it, removes dead code and rewrites and minimizes what's left. It also checks syntax, variable references, and types, and warns about common JavaScript pitfalls.
 Article

@@ -42,7 +42,7 @@ for writing scalable applications.
 
 ## CODECHECK 
 
-**JSHINT** [<img src="https://camo.githubusercontent.com/d5cddbe4a1538fdce934606c51eb56c1a98a9ecd/687474703a2f2f6e65776d657261746f722e6769746875622e696f2f626c61636b746f6361742e706e67" width="20">](https://github.com/jshint/jshint)
+**JSHINT** [<img src="https://camo.githubusercontent.com/d5cddbe4a1538fdce934606c51eb56c1a98a9ecd/687474703a2f2f6e65776d657261746f722e6769746875622e696f2f626c61636b746f6361742e706e67" width="20">](https://github.com/jshint/jshint)  It parses and analyzes a source file, returning an object with information about the file. It can also take an object that sets options.
 
 **JSLINT** [<img src="https://camo.githubusercontent.com/d5cddbe4a1538fdce934606c51eb56c1a98a9ecd/687474703a2f2f6e65776d657261746f722e6769746875622e696f2f626c61636b746f6361742e706e67" width="20">](https://github.com/douglascrockford/JSLint)
 

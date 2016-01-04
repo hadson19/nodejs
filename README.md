@@ -84,3 +84,5 @@ There are two ways to use forever: through the command line or by using forever 
 
 # DESKTOP
 [Electron](http://electron.atom.io/) Build cross platform desktop apps with web technologies
+
+http://www.2ality.com/2016/01/web-technologies-2015.html

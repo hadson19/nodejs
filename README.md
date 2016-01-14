@@ -7,6 +7,8 @@
 The StrongLoop API Platform features the popular open source LoopBack framework. LoopBack enables you to quickly compose scalable APIs, runs on top of the Express web framework and conforms to the Swagger 2.0 specification. LoopBack lets developers focus on business logic and user experience by making it easy to design, test and auto-generate the code for their APIs. LoopBack makes it easy to connect to new and legacy data in Oracle, SQL Server, MongoDB and MySQL, plus handle complex relationship mapping between them with robust ORM features. LoopBack is a mature framework that makes it easy to start implementing API design best practices that conform to popular specifications. [community](https://gitter.im/strongloop/loopback)
 
 
+[Frisby] (http://frisbyjs.com/) is a framework built for testing APIs; you wind it up, and it sends off requests and verifies the responses. Frisby is also built on top of Node.js, making it a good complement for some of the other frameworks here.
+
 
 [ActionHero] (http://www.actionherojs.com/) [<img src="https://camo.githubusercontent.com/d5cddbe4a1538fdce934606c51eb56c1a98a9ecd/687474703a2f2f6e65776d657261746f722e6769746875622e696f2f626c61636b746f6361742e706e67" width="20">](https://github.com/evantahler/actionhero) is a multi-transport API Server with integrated cluster capabilities and delayed tasks. The goal of actionhero is to create an easy-to-use toolkit for making reusable & scalable APIs. Clients connected to an actionhero server can consume the api, consume static content, and communicate with each other. actionhero is cluster-ready, with built in support for background tasks, 0-downtime deploys, and more.
 

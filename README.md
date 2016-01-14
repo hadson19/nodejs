@@ -7,6 +7,8 @@
 The StrongLoop API Platform features the popular open source LoopBack framework. LoopBack enables you to quickly compose scalable APIs, runs on top of the Express web framework and conforms to the Swagger 2.0 specification. LoopBack lets developers focus on business logic and user experience by making it easy to design, test and auto-generate the code for their APIs. LoopBack makes it easy to connect to new and legacy data in Oracle, SQL Server, MongoDB and MySQL, plus handle complex relationship mapping between them with robust ORM features. LoopBack is a mature framework that makes it easy to start implementing API design best practices that conform to popular specifications. [community](https://gitter.im/strongloop/loopback)
 
 
+[PARTIAL JS] (http://www.partialjs.com/)  Partial js is framework for Node.js, HTML, CSS, and JavaScript. With it, developers can build large scale of web applications and websites. Its features and architecture are same as total.js.
+
 [Frisby] (http://frisbyjs.com/) is a framework built for testing APIs; you wind it up, and it sends off requests and verifies the responses. Frisby is also built on top of Node.js, making it a good complement for some of the other frameworks here.
 
 

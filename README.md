@@ -7,6 +7,18 @@
 The StrongLoop API Platform features the popular open source LoopBack framework. LoopBack enables you to quickly compose scalable APIs, runs on top of the Express web framework and conforms to the Swagger 2.0 specification. LoopBack lets developers focus on business logic and user experience by making it easy to design, test and auto-generate the code for their APIs. LoopBack makes it easy to connect to new and legacy data in Oracle, SQL Server, MongoDB and MySQL, plus handle complex relationship mapping between them with robust ORM features. LoopBack is a mature framework that makes it easy to start implementing API design best practices that conform to popular specifications. [community](https://gitter.im/strongloop/loopback)
 
 
+
+[ActionHero] (http://www.actionherojs.com/) [<img src="https://camo.githubusercontent.com/d5cddbe4a1538fdce934606c51eb56c1a98a9ecd/687474703a2f2f6e65776d657261746f722e6769746875622e696f2f626c61636b746f6361742e706e67" width="20">](https://github.com/evantahler/actionhero) is a multi-transport API Server with integrated cluster capabilities and delayed tasks. The goal of actionhero is to create an easy-to-use toolkit for making reusable & scalable APIs. Clients connected to an actionhero server can consume the api, consume static content, and communicate with each other. actionhero is cluster-ready, with built in support for background tasks, 0-downtime deploys, and more.
+
+Currently actionhero supports:
+ Web Clients: HTTP, HTTPS
+ Socket Clients: TCP (telnet), TLS
+ Web Socket Clients: HTTP, HTTPS
+
+
+
+
+
 [Derby] (http://derbyjs.com//) [<img src="https://camo.githubusercontent.com/d5cddbe4a1538fdce934606c51eb56c1a98a9ecd/687474703a2f2f6e65776d657261746f722e6769746875622e696f2f626c61636b746f6361742e706e67" width="20">](https://github.com/derbyjs/derby) The Derby MVC framework makes it easy to write realtime, collaborative applications that run in both Node.js and browsers.
 Derby includes a powerful data synchronization engine called Racer that automatically syncs data among browsers, servers, and a database. Models subscribe to changes on specific objects, enabling granular control of data propagation without defining channels. Racer supports offline usage and conflict resolution out of the box, which greatly simplifies writing multi-user applications.
 Derby applications load immediately and can be indexed by search engines, because the same templates render on both server and client. In addition, templates define bindings, which instantly update the view when the model changes and vice versa. Derby makes it simple to write applications that load as fast as a search engine, are as interactive as a document editor, and work offline.

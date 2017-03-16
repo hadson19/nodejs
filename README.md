@@ -116,6 +116,11 @@ CodeceptJS is a new testing framework for end-to-end testing with WebDriver (or 
  - Middlewares
  - Works great with any test runner
 
+[Frisby](http://frisbyjs.com) - Frisby is a REST API testing framework built on node.js and Jasmine that makes
+testing API endpoints easy, fast, and fun. 
+
+[nightwatchjs/](https://github.com/nightwatchjs/nightwatch) - The test below navigates to google.com and searches for "rembrandt van rijn", then verifies if the term first result is the Wikipedia page of Rembrandt.
+
 ## Deamon and Watching
 
 **PM2** is a sweet little tool that is going to solve two problems for you. Production process manager for Node.JS applications with a built-in load balancer. PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.

@@ -93,7 +93,6 @@ Article
 ## Unit Test
  [Unit.js](http://unitjs.com/)  is an assertion library for Javascript, running on Node.js and the browser. It works with any test runner and unit testing framework like Mocha, Jasmine, Karma, protractor (E2E test framework for Angular apps), QUnit, ... and more.
 
-
 ApacheBench  http://httpd.apache.org/docs/2.2/programs/ab.html
 Siege  https://www.joedog.org/siege-home/
 Jmeter  http://jmeter.apache.org/
@@ -101,6 +100,21 @@ Tsung  http://tsung.erlang-projects.org/
 
 **Mocha** [Testing in Node.js](http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018)
 Unit Testing and Quality Assurance (QA) are two very important aspects of writing good quality, maintainable code that does what you expect. Without these, you really don't know if your application is going to instigate world peace or start a war (metaphorically speaking). [example](http://www.clock.co.uk/blog/tools-for-unit-testing-and-quality-assurance-in-node-js)
+
+## End-to-End Test
+
+[CodeceptJS](https://github.com/Codeception/CodeceptJS)
+CodeceptJS is a new testing framework for end-to-end testing with WebDriver (or others). It abstracts browser interaction to simple steps which is written from a user perspective
+
+[testcafe](https://github.com/DevExpress/testcafe) TestCafe is a pure node.js end-to-end solution for testing web apps. It takes care of all the stages: starting browsers, running tests, gathering test results and generating reports. TestCafe doesn’t need browser plugins - it works in all popular modern browsers out-of-the-box.
+
+[hippie](https://github.com/vesln/hippie) Thin request wrapper that enables powerful and intuitive API testing.
+ - Intuitive and consistent API
+ - Built-in and custom expectations
+ - Support for custom parsers and serializers
+ - Easy to extend
+ - Middlewares
+ - Works great with any test runner
 
 ## Deamon and Watching
 
@@ -118,7 +132,7 @@ There are two ways to use forever: through the command line or by using forever 
 
 ![screen](https://cloud.githubusercontent.com/assets/4102119/11914058/7f9a5d5e-a67e-11e5-869c-32c2b329529a.jpg)
 
-
+e
 # DESKTOP
 [Electron](http://electron.atom.io/) Build cross platform desktop apps with web technologies
 
